@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" 
+   crossorigin="anonymous" referrerpolicy="no-referrer" />
+   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap" rel="stylesheet">
+   <link rel="stylesheet" href="main.css">
+</head>
+<body>
+   <div class="margin">
+         <div class="container">
+    <div class="flex">
+      <img class="logo" src="../images/Subtract.svg" alt="">
+      <p class="p1">Base</p>
+      <ul>
+     <a href="#">    <li class="home">Home</li></a>
+     <a href="#">   <li class="feat">Features</li> </a>
+     <a href="#"> <li class="feat">Testimonial</li> </a>
+      <a href="#">   <li class="feat">Pricing</li></a>
+         <a href="#">  <li class="feat">CTA</li></a>
+            <a href="#">  <button class="but1">Try Demo</button></a>
+      </ul>
+    </div>
+    <div class="tx">
+    <p class="lorem">Lorem ipsum dolor</p>
+     <li class="big">Always The &nbsp;  <li class="real"> Real</li> <br>
+     <li class="big2">Thing, Always &nbsp;  <li class="sas">Saas</li></li>
+   </li>
+   <p class="p2">And that number is growing every day. That <br> means <span class="imp">e-commerce</span> is thriving.</p>
+    <button class="try">Try For Free</button>
+    <button class="free">Try For Free</button>
+    <br>
+    <hr class="h1">
+    <p class="x">There are some things money can’t buy. For everything else there’s <span class="s">‘’MasterCard” </span>is a good example. </p>
+</div>
+ </div>
+
+ <div class="flex">
+    <img src="../images/fex.png" alt="">
+    <img src="../images/fedex.png" alt="">
+    <img src="../images/google.png" alt="">
+    <img src="../images/microsoft.png" alt="">
+    <img src="../images/amazon.png" alt="">
+ </div>
+ <div class="table">
+<img class="p6" src="../images/nurik2.png" alt="">
+<p class="p4"> Lorem ipsum dolor</p>
+<p class="p5"><span class="span100">Two</span>Saas Are better <br> 
+   <span class="span100"> than one</span> </p>
+   <p class="p7">
+      One of the most fundamental ways to go about that is to <br> create a memorable    <span class="span15"> e-commerce </span>
+      slogan.
+   </p>
+   <i id="icon1" class="fas fa-cloud-download-alt"> </i><li class="p8">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+   </li>
+   <i id="icon1" class="fas fa-cloud-download-alt"> </i><li class="p8">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+   </li>
+   <i id="icon1" class="fas fa-cloud-download-alt"> </i><li class="p8">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+   </li>
+</div>
+<div class="div20">
+<p class="simole">
+   Lorem ipsum is simply dummy.
+</p>
+<li class="li15">
+   Contrary to popular belief, Lorem ipsum is not simply random text. It has roots.
+</li>
+
+<input
+class="search"
+type="email" id="email" name="email" placeholder="Enter Email Address" />
+<i id="iconka" class="fas fa-arrow-right"></i>
+</div>
+
+
+
+<footer>
+   <div class="base">
+      <img class="logo2" src="../images/Subtract.svg" alt="">
+      <h2 >Base</h2> </div>
+      <p class="ax"> Lorem ipsum, dolor sit amet consectetur adipisicing.
+      </p> 
+   <div class="sometext"><li class="a5"><a class="a5" href="">Customers</a></li>
+      <li class="a5"><a class="a5"href="">Buyer</a></li>
+      <li class="a5"><a class="a5" href="">Suppilier</a></li></div>
+
+      
+   <!-- <div class="sometext"><li class="a5"><a class="a5" href="">Customers</a></li>
+      <li class="a5"><a class="a5"href="">Buyer</a></li>
+      <li class="a5"><a class="a5" href="">Suppilier</a></li></div>
+   <div class="sometext"><li class="a5"><a class="a5" href="">Customers</a></li>
+      <li class="a5"><a class="a5"href="">Buyer</a></li>
+      <li class="a5"><a class="a5" href="">Suppilier</a></li></div>
+   <div class="sometext"><li class="a5"><a class="a5" href="">Customers</a></li>
+      <li class="a5"><a class="a5"href="">Buyer</a></li>
+      <li class="a5"><a class="a5" href="">Suppilier</a></li></div> -->
+      
+</footer>
+
+</div>
+
+
+
+</footer>
+
+
+
+
+
+
+ </div>
+<script>
+.flex{
+   display: flex;
+   margin-bottom: 165px;
+  
+}
+.container{
+   background-color: #002547;
+   width: 1600px;
+   height: 850px;
+   background: url(../images/bgcq.png) no-repeat  #002547 right;
+   margin-bottom: 130px;
+}
+.p1{
+   color: white;
+    margin-left: 13px;
+    margin-top: 86px;
+    width: 55px;
+    height: 33px;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    font-family: 'Poppins', sans-serif;
+      }
+ li{
+    list-style-type: none;
+    display: inline-block;
+ }
+
+
+.logo{
+   margin-top: 60px;
+   margin-left: 238px;
+
+}
+ul{
+   margin-left: 256px;
+}
+.home{
+   font-family: 'Poppins', sans-serif;
+width: 48px;
+height: 26px;
+margin-top: 67px;
+font-weight: 500;
+font-size: 16px;
+line-height: 25px;
+text-decoration: underline;
+color: white;
+}
+.feat{
+   width: 70px;
+   height: 21px;
+   margin-top: 70px;
+   margin-left: 40px;
+   font-weight: 400;
+   font-family: 'Poppins', sans-serif;
+   color: #FFFFFF99;
+}
+a{
+   text-transform: none;
+}
+.but1{
+   width: 147px;
+   height: 53px;
+   margin-top: 54px;
+   margin-left: 167px;
+   background-color: #ffffff;
+   border-radius: 5px;
+}
+.big{
+font-weight: 700;
+font-size: 60px;
+line-height: 84px;
+font-family: 'Poppins', sans-serif;
+color: #ffffff;
+}
+
+.lorem{
+      width: 173px;
+      height: 26px;
+      font-family: 'Poppins', sans-serif;
+      font-size: 16px;
+      line-height: 25px;
+      color: #1D92FF;
+      letter-spacing: 5%;
+      text-transform: uppercase;
+      margin-bottom: 6px;
+   }
+ .real{
+   font-family: 'Poppins', sans-serif;
+
+    text-decoration: underline;
+   color: #1D92FF;
+    font-size: 60px;
+    line-height: 84px;
+    font-weight: 600;
+
+ }
+.tx{
+   margin-left: 234px;
+}
+.big2{
+   
+   font-family: 'Poppins', sans-serif;
+   font-weight: 500;
+   font-style: normal;
+   font-size: 60px;
+   line-height: 84px;
+  
+}
+.sas{
+   font-family: 'Poppins', sans-serif;
+
+   color: #1D92FF;
+   font-size: 60px;
+   line-height: 84px;
+   font-weight: 600;
+}
+.p2{
+   font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+   text-transform: capitalize;
+   color: #FFFFFF99;
+    margin-bottom: 40px;
+}
+
+
+.imp{
+   font-size: 18px;
+   font-weight: 600;
+   line-height: 28px;
+   font-family: 'Poppins', sans-serif;
+   color: #ffffff;
+}
+.try{
+   width: 205px;
+   height: 53px;
+   border-radius: 3px;
+   font-weight: 500;
+   font-size: 18px;
+   line-height: 23px;
+   color: #1D92FF;
+   border: 1px #ffffff solid;
+}
+.free{ 
+   background-color: rgba(155, 155, 565, 0);
+   color:#ffffff;
+   width: 205px;
+   height: 53px;
+   border-radius: 3px;
+   font-weight: 500;
+   font-size: 18px;
+   line-height: 23px;
+   border: 1px solid #FFFFFF99;
+   margin-left: 25px;
+}
+
+.x{
+   font-family: 'Poppins', sans-serif;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 22px;
+   text-transform: capitalize;
+}
+.s{
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+font-family: 'Poppins', sans-serif;
+
+}
+.flex{
+   
+   display: flex;
+}
+.flex img{
+   margin-left: 93px;
+}
+.h1 {
+   margin-top: 35px;
+   outline: 0.5px white ;
+   width: 500px;
+   margin-left: 10px;
+   opacity: 0.5;
+}
+/* .margin{
+   width: 1300px;
+   height: 5000px;
+   margin: 0 auto;
+} */
+.table{
+width: 1225px;
+margin-left: 153px;
+height: 574px;
+}
+.p4{
+width: 173px;
+height: 26px;
+font-family: 'Poppins', sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+color: #1D92FF;
+margin-bottom: 10px;
+display: inline-block;
+}
+.p6{
+   float: left;
+}
+.p5{
+font-family: 'Poppins', sans-serif;
+font-weight: 400;
+font-size: 39px;
+line-height: 52px;
+color: #000;
+text-transform: capitalize;
+margin-bottom: 25px;
+}
+.span100{
+   font-family: 'Poppins', sans-serif;
+   font-weight: 600;
+   font-size: 39px;
+   line-height: 52px;
+   color: #000;
+}
+.span15
+{
+   font-family: 'Poppins', sans-serif;
+   font-weight: 600;
+   font-size: 16px;
+   line-height: 25px;
+   color: #26292cb2 70%;
+}
+.p7
+{
+   font-family: 'Poppins', sans-serif;
+   font-weight: 400;
+   font-size:  16px;
+   line-height: 25px;
+   color: #353536b2;
+   margin-bottom: 45px;
+}
+.p8{
+   text-transform: capitalize;
+   font-family: 'Poppins', sans-serif;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 25px;
+   color: #01070D;
+   opacity: 50%;
+   width: 418px;
+   height: 52px;
+   display: inline-block;
+   margin-bottom: 25px;
+}
+#icon1{
+ padding-bottom: 25px;
+ padding-right: 10px;
+ font-size: 25px;
+vertical-align: middle;
+color: #1D92FF;
+opacity: 70%;
+}
+.table{
+   margin-bottom: 165px;
+}
+
+
+.simole{
+   width: 483px;
+   height: 31px;
+   margin-left: 56px;
+   margin-top: 56px;
+   color: #FFFFFF;
+   font-size: 32px;
+   margin-bottom: 24px;
+}
+.li15{
+width: 419px;
+height: 38px;
+margin-left: 56px;
+color: #FFFFFF;
+opacity: 90%;
+font-size: 18px;
+}
+.search{
+   margin-left: 200px;
+   align-self: center;
+   width: 460px;
+   height: 62px;
+   border-radius: 35px;
+   padding-left: 40px;
+   background-color: #002648;
+   color: #ffffff;
+   border: 1px solid white;
+}
+#bgcolor{
+   position:relative;
+   z-index: 2;
+   left: -100px;
+}
+#arrow{
+   position: relative;
+   z-index: 3;
+   top: -12px;
+   left: -150px;
+}
+#iconka{
+   position: absolute;
+   font-size: 35px;
+   top: 123px;
+   right: 90px;
+   color: #002547;
+   background-color: #fff;
+   width: 76px;
+   height: 42px;
+   border-radius: 10px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.div20{
+   position: absolute;
+   z-index: 2;
+   width: 1250px;
+   height: 206px;
+   margin-left: 175px;
+   background-color: #002648;
+   border-radius: 8px;
+   
+}
+.div21{
+   margin-top: 350px;
+   width: 1600px;
+   height: 376px;
+   opacity:95%;
+   background-color: #070C11;
+   position:relative;
+   z-index: 1;
+ 
+}
+.ax{
+   text-transform: capitalize;
+   font-size: 18px;
+   color: white;
+   opacity: 70%;
+   width: 260px;
+   height: 40px;
+   letter-spacing: 1.5px;
+   display: inline-block;
+   margin-left:227px;
+}
+.logo2{
+   width: 42px;
+   height: 42px;
+
+   margin-left: 227px;
+   margin-top: 126px;
+}
+h2{
+   margin-left: 15px;
+   color: white;
+   width: 55px;
+   height: 33px;
+   font-weight: 600;
+   font-size: 22px;
+   line-height: 33px;
+   font-family: 'Poppins', sans-serif;
+   margin-top: 134px;
+   display: inline-block;
+}
+.div56{
+   display: flex;
+
+}  
+.a6{
+   width: 88px;
+   height: 11px;
+   color: #ffffff;
+}
+.a5{
+   display: block;
+   color: #ffffff;
+   margin-top: 29px;
+}
+
+footer {
+   margin-top: 350px;
+   width: 1600px;
+   height: 376px;
+   opacity:95%;
+   background-color: #070C11;
+   position:relative;
+   z-index: 1;
+}
+.base{
+   
+   display: flex;
+   }
+   .sometext{
+      display: inline-block;
+      margin-left: 138px;
+   }
+a{
+   text-decoration: none;
+}</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
